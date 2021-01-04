@@ -1,0 +1,11 @@
+{
+    "name": "@crgeary/configuration-prettier",
+    "main": "index.json",
+    "author": "Christopher Geary <hello@crgeary.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/crgeary/configuration.git",
+        "directory": "packages/configuration-prettier"
+    }
+}

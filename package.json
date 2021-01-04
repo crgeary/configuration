@@ -1,0 +1,16 @@
+{
+    "name": "configuration",
+    "private": true,
+    "author": "Christopher Geary <hello@crgeary.com>",
+    "license": "MIT",
+    "workspaces": [
+        "packages/*"
+    ],
+    "scripts": {
+        "format": "prettier --write ."
+    },
+    "devDependencies": {
+        "lerna": "^3.22.1",
+        "prettier": "^2.2.1"
+    }
+}

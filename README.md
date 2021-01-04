@@ -1,3 +1,7 @@
 # Configuration
 
-My personal configuration for various tools & packages
+My personal configurations for various tools & packages
+
+## License
+
+Licensed under the [MIT License](./LICENSE).
