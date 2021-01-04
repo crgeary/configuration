@@ -8,5 +8,9 @@
         "type": "git",
         "url": "https://github.com/crgeary/configuration.git",
         "directory": "packages/configuration-prettier"
-    }
+    },
+    "publishConfig": {
+        "access": "public"
+    },
+    "gitHead": "cac36c64928873c25f7848db2df45040cafc5632"
 }
