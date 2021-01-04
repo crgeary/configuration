@@ -3,7 +3,7 @@
     "main": "index.json",
     "author": "Christopher Geary <hello@crgeary.com>",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "repository": {
         "type": "git",
         "url": "https://github.com/crgeary/configuration.git",
