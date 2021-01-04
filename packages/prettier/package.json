@@ -7,7 +7,7 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/crgeary/configuration.git",
-        "directory": "packages/configuration-prettier"
+        "directory": "packages/prettier"
     },
     "publishConfig": {
         "access": "public"
